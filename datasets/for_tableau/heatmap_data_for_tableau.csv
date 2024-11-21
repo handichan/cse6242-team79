@@ -1,0 +1,162 @@
+Socio-Demographic Variables,Crime Types,Significance
+Hardship Index,ARSON,1
+Per Capita Income,ARSON,0
+Percent Aged 16+ Unemployed,ARSON,0
+Percent Aged 25+ Without High School Diploma,ARSON,0
+Percent Aged Under 18 Or Over 64,ARSON,0
+Percent Households Below Poverty,ARSON,0
+Percent Of Housing Crowded,ARSON,0
+Hardship Index,ASSAULT,0
+Per Capita Income,ASSAULT,0
+Percent Aged 16+ Unemployed,ASSAULT,1
+Percent Aged 25+ Without High School Diploma,ASSAULT,0
+Percent Aged Under 18 Or Over 64,ASSAULT,1
+Percent Households Below Poverty,ASSAULT,1
+Percent Of Housing Crowded,ASSAULT,0
+Hardship Index,BATTERY,1
+Per Capita Income,BATTERY,0
+Percent Aged 16+ Unemployed,BATTERY,0
+Percent Aged 25+ Without High School Diploma,BATTERY,1
+Percent Aged Under 18 Or Over 64,BATTERY,0
+Percent Households Below Poverty,BATTERY,0
+Percent Of Housing Crowded,BATTERY,0
+Hardship Index,BURGLARY,1
+Per Capita Income,BURGLARY,1
+Percent Aged 16+ Unemployed,BURGLARY,0
+Percent Aged 25+ Without High School Diploma,BURGLARY,1
+Percent Aged Under 18 Or Over 64,BURGLARY,1
+Percent Households Below Poverty,BURGLARY,1
+Percent Of Housing Crowded,BURGLARY,1
+Hardship Index,CRIMINAL DAMAGE,1
+Per Capita Income,CRIMINAL DAMAGE,1
+Percent Aged 16+ Unemployed,CRIMINAL DAMAGE,1
+Percent Aged 25+ Without High School Diploma,CRIMINAL DAMAGE,1
+Percent Aged Under 18 Or Over 64,CRIMINAL DAMAGE,1
+Percent Households Below Poverty,CRIMINAL DAMAGE,0
+Percent Of Housing Crowded,CRIMINAL DAMAGE,1
+Hardship Index,CRIMINAL SEXUAL ASSAULT,0
+Per Capita Income,CRIMINAL SEXUAL ASSAULT,1
+Percent Aged 16+ Unemployed,CRIMINAL SEXUAL ASSAULT,0
+Percent Aged 25+ Without High School Diploma,CRIMINAL SEXUAL ASSAULT,0
+Percent Aged Under 18 Or Over 64,CRIMINAL SEXUAL ASSAULT,0
+Percent Households Below Poverty,CRIMINAL SEXUAL ASSAULT,0
+Percent Of Housing Crowded,CRIMINAL SEXUAL ASSAULT,0
+Hardship Index,CRIMINAL TRESPASS,0
+Per Capita Income,CRIMINAL TRESPASS,1
+Percent Aged 16+ Unemployed,CRIMINAL TRESPASS,1
+Percent Aged 25+ Without High School Diploma,CRIMINAL TRESPASS,1
+Percent Aged Under 18 Or Over 64,CRIMINAL TRESPASS,0
+Percent Households Below Poverty,CRIMINAL TRESPASS,0
+Percent Of Housing Crowded,CRIMINAL TRESPASS,1
+Hardship Index,HOMICIDE,1
+Per Capita Income,HOMICIDE,0
+Percent Aged 16+ Unemployed,HOMICIDE,1
+Percent Aged 25+ Without High School Diploma,HOMICIDE,1
+Percent Aged Under 18 Or Over 64,HOMICIDE,0
+Percent Households Below Poverty,HOMICIDE,0
+Percent Of Housing Crowded,HOMICIDE,0
+Hardship Index,HUMAN TRAFFICKING,0
+Per Capita Income,HUMAN TRAFFICKING,0
+Percent Aged 16+ Unemployed,HUMAN TRAFFICKING,0
+Percent Aged 25+ Without High School Diploma,HUMAN TRAFFICKING,0
+Percent Aged Under 18 Or Over 64,HUMAN TRAFFICKING,0
+Percent Households Below Poverty,HUMAN TRAFFICKING,0
+Percent Of Housing Crowded,HUMAN TRAFFICKING,0
+Hardship Index,INTIMIDATION,0
+Per Capita Income,INTIMIDATION,0
+Percent Aged 16+ Unemployed,INTIMIDATION,0
+Percent Aged 25+ Without High School Diploma,INTIMIDATION,0
+Percent Aged Under 18 Or Over 64,INTIMIDATION,1
+Percent Households Below Poverty,INTIMIDATION,1
+Percent Of Housing Crowded,INTIMIDATION,0
+Hardship Index,KIDNAPPING,0
+Per Capita Income,KIDNAPPING,0
+Percent Aged 16+ Unemployed,KIDNAPPING,0
+Percent Aged 25+ Without High School Diploma,KIDNAPPING,0
+Percent Aged Under 18 Or Over 64,KIDNAPPING,0
+Percent Households Below Poverty,KIDNAPPING,1
+Percent Of Housing Crowded,KIDNAPPING,0
+Hardship Index,MOTOR VEHICLE THEFT,1
+Per Capita Income,MOTOR VEHICLE THEFT,1
+Percent Aged 16+ Unemployed,MOTOR VEHICLE THEFT,1
+Percent Aged 25+ Without High School Diploma,MOTOR VEHICLE THEFT,1
+Percent Aged Under 18 Or Over 64,MOTOR VEHICLE THEFT,1
+Percent Households Below Poverty,MOTOR VEHICLE THEFT,1
+Percent Of Housing Crowded,MOTOR VEHICLE THEFT,1
+Hardship Index,NARCOTICS,1
+Per Capita Income,NARCOTICS,1
+Percent Aged 16+ Unemployed,NARCOTICS,1
+Percent Aged 25+ Without High School Diploma,NARCOTICS,1
+Percent Aged Under 18 Or Over 64,NARCOTICS,1
+Percent Households Below Poverty,NARCOTICS,1
+Percent Of Housing Crowded,NARCOTICS,1
+Hardship Index,OBSCENITY,0
+Per Capita Income,OBSCENITY,0
+Percent Aged 16+ Unemployed,OBSCENITY,0
+Percent Aged 25+ Without High School Diploma,OBSCENITY,0
+Percent Aged Under 18 Or Over 64,OBSCENITY,0
+Percent Households Below Poverty,OBSCENITY,0
+Percent Of Housing Crowded,OBSCENITY,0
+Hardship Index,OFFENSE INVOLVING CHILDREN,0
+Per Capita Income,OFFENSE INVOLVING CHILDREN,0
+Percent Aged 16+ Unemployed,OFFENSE INVOLVING CHILDREN,0
+Percent Aged 25+ Without High School Diploma,OFFENSE INVOLVING CHILDREN,0
+Percent Aged Under 18 Or Over 64,OFFENSE INVOLVING CHILDREN,1
+Percent Households Below Poverty,OFFENSE INVOLVING CHILDREN,0
+Percent Of Housing Crowded,OFFENSE INVOLVING CHILDREN,0
+Hardship Index,PROSTITUTION,1
+Per Capita Income,PROSTITUTION,0
+Percent Aged 16+ Unemployed,PROSTITUTION,1
+Percent Aged 25+ Without High School Diploma,PROSTITUTION,1
+Percent Aged Under 18 Or Over 64,PROSTITUTION,1
+Percent Households Below Poverty,PROSTITUTION,1
+Percent Of Housing Crowded,PROSTITUTION,1
+Hardship Index,PUBLIC INDECENCY,0
+Per Capita Income,PUBLIC INDECENCY,0
+Percent Aged 16+ Unemployed,PUBLIC INDECENCY,0
+Percent Aged 25+ Without High School Diploma,PUBLIC INDECENCY,0
+Percent Aged Under 18 Or Over 64,PUBLIC INDECENCY,0
+Percent Households Below Poverty,PUBLIC INDECENCY,0
+Percent Of Housing Crowded,PUBLIC INDECENCY,0
+Hardship Index,PUBLIC PEACE VIOLATION,1
+Per Capita Income,PUBLIC PEACE VIOLATION,1
+Percent Aged 16+ Unemployed,PUBLIC PEACE VIOLATION,0
+Percent Aged 25+ Without High School Diploma,PUBLIC PEACE VIOLATION,0
+Percent Aged Under 18 Or Over 64,PUBLIC PEACE VIOLATION,1
+Percent Households Below Poverty,PUBLIC PEACE VIOLATION,1
+Percent Of Housing Crowded,PUBLIC PEACE VIOLATION,0
+Hardship Index,ROBBERY,1
+Per Capita Income,ROBBERY,1
+Percent Aged 16+ Unemployed,ROBBERY,0
+Percent Aged 25+ Without High School Diploma,ROBBERY,1
+Percent Aged Under 18 Or Over 64,ROBBERY,1
+Percent Households Below Poverty,ROBBERY,0
+Percent Of Housing Crowded,ROBBERY,1
+Hardship Index,SEX OFFENSE,0
+Per Capita Income,SEX OFFENSE,0
+Percent Aged 16+ Unemployed,SEX OFFENSE,0
+Percent Aged 25+ Without High School Diploma,SEX OFFENSE,0
+Percent Aged Under 18 Or Over 64,SEX OFFENSE,0
+Percent Households Below Poverty,SEX OFFENSE,0
+Percent Of Housing Crowded,SEX OFFENSE,0
+Hardship Index,STALKING,1
+Per Capita Income,STALKING,0
+Percent Aged 16+ Unemployed,STALKING,1
+Percent Aged 25+ Without High School Diploma,STALKING,1
+Percent Aged Under 18 Or Over 64,STALKING,0
+Percent Households Below Poverty,STALKING,0
+Percent Of Housing Crowded,STALKING,0
+Hardship Index,THEFT,0
+Per Capita Income,THEFT,1
+Percent Aged 16+ Unemployed,THEFT,1
+Percent Aged 25+ Without High School Diploma,THEFT,1
+Percent Aged Under 18 Or Over 64,THEFT,1
+Percent Households Below Poverty,THEFT,1
+Percent Of Housing Crowded,THEFT,1
+Hardship Index,WEAPONS VIOLATION,0
+Per Capita Income,WEAPONS VIOLATION,0
+Percent Aged 16+ Unemployed,WEAPONS VIOLATION,1
+Percent Aged 25+ Without High School Diploma,WEAPONS VIOLATION,1
+Percent Aged Under 18 Or Over 64,WEAPONS VIOLATION,0
+Percent Households Below Poverty,WEAPONS VIOLATION,1
+Percent Of Housing Crowded,WEAPONS VIOLATION,1
