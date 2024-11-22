@@ -16,8 +16,7 @@ To use the code in this repository, you need to have the following Python librar
 
 You can install them using pip:
 
-```bash
-pip install numpy pandas scikit-learn matplotlib notebook
+```pip install numpy pandas scikit-learn matplotlib notebook```
 
 # Execution
 
@@ -33,7 +32,7 @@ To run the analysis, follow these steps:
 
   - This will generate plots.
   - Prepare datasets for GIS.
-- - Perform the analysis and predictions.
+  - Perform the analysis and predictions.
 
 4. **Explore the outputs and visualizations in the notebook for detailed insights.**
 
