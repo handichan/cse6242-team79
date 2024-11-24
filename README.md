@@ -1,6 +1,6 @@
 # Chicago Crime Data Analysis and Visualization
 
-This repository contains files for the CS6242 final project titled **"Chicago Crime Data Analysis and Visualization"**. The project leverages Python notebooks to analyze and visualize crime data in Chicago. It includes scripts for generating plots, preparing datasets for geographical analysis using GIS tools, and performing predictive analysis to uncover relationships between crime variables and socio-economic factors. 
+This package contains files for the CS6242 final project titled **"Chicago Crime Data Analysis and Visualization"**. The project leverages Python notebooks to analyze and visualize crime data in Chicago. It includes scripts for generating plots, preparing datasets for geographical analysis using GIS tools, and performing predictive analysis to uncover relationships between crime variables and socio-economic factors. 
 
 The analysis aims to provide insights into crime patterns in Chicago, identify correlations among relevant crime and socio-economic variables, and enable geographical visualization. By combining statistical analysis, machine learning techniques, and data visualization, this project offers a comprehensive approach to understanding the dynamics of crime in urban environments.
 
@@ -30,9 +30,9 @@ To run the analysis, follow these steps:
 
 3. **Run all cells in the notebook sequentially:**
 
-  - This will generate plots.
-  - Prepare datasets for GIS.
-  - Perform the analysis and predictions.
+   - This will generate plots.
+   - Prepare datasets for GIS.
+   - Perform the analysis and predictions.
 
 4. **Explore the outputs and visualizations in the notebook for detailed insights.**
 
